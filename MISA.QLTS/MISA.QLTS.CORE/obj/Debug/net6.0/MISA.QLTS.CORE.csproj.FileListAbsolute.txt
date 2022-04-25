@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\bin\Debug\net6.0\MISA.QLTS.CORE.deps.json
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\bin\Debug\net6.0\MISA.QLTS.CORE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\bin\Debug\net6.0\ref\MISA.QLTS.CORE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\bin\Debug\net6.0\MISA.QLTS.CORE.pdb
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.Resources.ResourceVN.resources
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.AssemblyInfo.cs
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\ref\MISA.QLTS.CORE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.CORE\obj\Debug\net6.0\MISA.QLTS.CORE.pdb

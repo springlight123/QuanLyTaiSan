@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.deps.json
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\ref\MISA.QLTS.INFRASTRUCTURE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.pdb
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\MISA.QLTS.CORE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\bin\Debug\net6.0\MISA.QLTS.CORE.pdb
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.AssemblyInfo.cs
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.csproj.CopyComplete
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\ref\MISA.QLTS.INFRASTRUCTURE.dll
+C:\Users\Admin\Documents\back-end\MISA.QLTS\MISA.QLTS.INFRASTRUCTURE\obj\Debug\net6.0\MISA.QLTS.INFRASTRUCTURE.pdb

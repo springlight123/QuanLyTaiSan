@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed2ca874-d2c4-45db-af47-e81e045f4bfb": {
+      "ProjectGuid": "ed2ca874-d2c4-45db-af47-e81e045f4bfb",
+      "DisplayName": "MISA.QLTS",
+      "ColorIndex": 0
+    },
+    "b3867918-615b-4955-907d-61f6f730cf7f": {
+      "ProjectGuid": "b3867918-615b-4955-907d-61f6f730cf7f",
+      "DisplayName": "MISA.QLTS.API",
+      "ColorIndex": 1
+    },
+    "0d716b61-9cab-4ccd-af1d-45b4a2fe2fad": {
+      "ProjectGuid": "0d716b61-9cab-4ccd-af1d-45b4a2fe2fad",
+      "DisplayName": "MISA.QLTS.CORE",
+      "ColorIndex": 2
+    },
+    "fec70a1d-8313-4dad-b5ac-f8d59f4af380": {
+      "ProjectGuid": "fec70a1d-8313-4dad-b5ac-f8d59f4af380",
+      "DisplayName": "MISA.QLTS.INFRASTRUCTURE",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
