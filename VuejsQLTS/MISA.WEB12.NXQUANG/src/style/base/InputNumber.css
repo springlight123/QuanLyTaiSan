@@ -1,0 +1,38 @@
+.input-number {
+    display: flex;
+    border: solid 1px #bbbbbb;
+    width: 270px;
+    border-radius: 2.5px;
+}
+
+.input-number-icon {
+    display: flex;
+    flex-direction: column;
+    width: 35px;
+}
+
+.input-number-icon:hover {
+    cursor: pointer;
+}
+
+.icon-up {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -15.5px -328px;
+    height: 17.5px;
+}
+
+.icon-up:hover {
+    background-color: #bbbbbb;
+}
+
+.icon-down {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -59.5px -334px;
+    height: 17.5px;
+}
+
+.icon-down:hover {
+    background-color: #bbbbbb;
+}
+
+.focus {
+    border-color: #1aa4c8;
+}

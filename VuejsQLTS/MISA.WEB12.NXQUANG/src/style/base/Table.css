@@ -1,0 +1,126 @@
+.father-table {
+    position: relative;
+    margin: 22px 30px 22px 30px;
+    height: 600px;
+    background-color: #ffffff;
+    border-radius: 3.5px;
+    border: 1px solid #afafaf;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+}
+
+.e-table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 1.3rem;
+}
+
+.table {
+    height: 540px;
+    overflow-y: scroll;
+}
+
+.e-table tr {
+    border-bottom: solid 0.5px rgb(187, 187, 187, 0.4);
+    height: 38px;
+}
+
+.e-table thead tr {
+    outline: solid 0.5px rgb(187, 187, 187, 0.4);
+}
+
+.e-table tr th:first-child {
+    text-align: center;
+    padding: 12px;
+}
+
+.e-table thead tr {
+    background-color: #f5f5f5;
+    position: sticky;
+    top: 0;
+}
+
+.table-footer {
+    position: absolute;
+    bottom: 0%;
+    height: 60px;
+    width: 100%;
+    background-color: white;
+    border-bottom: none;
+    padding: 3px 0px 3px 17px;
+    outline: solid 0.5px rgb(187, 187, 187, 0.4);
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.table-footer .footer-infor {
+    display: flex;
+    align-content: center;
+    line-height: 25px;
+    padding-top: 15px;
+    justify-content: space-between;
+    max-width: 660px;
+}
+
+.footer-count {
+    font-weight: 600;
+    width: 110px;
+    align-content: center;
+    font-size: 1.3rem;
+    padding-top: 20px;
+    padding-right: 12px;
+}
+
+.count-asset {
+    font-size: 1.3rem;
+    margin-right: 50px;
+    height: 25px;
+    min-width: 120px;
+}
+
+.count-asset span {
+    font-weight: 700;
+}
+
+.e-table td,
+th {
+    text-align: left;
+    padding: 12px;
+    font-weight: normal;
+}
+
+.e-table tbody tr:hover {
+    background-color: rgba(26, 164, 200, 0.2);
+    cursor: pointer;
+}
+
+.table-function {
+    display: none;
+    width: 100%;
+    justify-content: center;
+}
+
+.e-table tbody tr:hover .table-function {
+    display: flex;
+}
+
+.table-fix {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -156px -68px;
+    width: 16px;
+    height: 16px;
+    margin-right: 20px;
+}
+
+.table-copy {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -244px -112px;
+    width: 16px;
+    height: 16px;
+}
+
+.right {
+    text-align: right;
+}
+
+.tbodynone {
+    display: none;
+}

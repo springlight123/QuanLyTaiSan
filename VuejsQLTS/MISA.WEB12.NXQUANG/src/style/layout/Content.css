@@ -1,0 +1,48 @@
+.content-top {
+    display: flex;
+    margin: 20px 30px 10px 30px;
+    justify-content: space-between;
+    line-height: 40px;
+}
+
+.content {
+    background-color: #f4f7ff;
+}
+
+.content-field {
+    display: flex;
+}
+
+.year {
+    width: 70px;
+    height: 20px;
+    display: flex;
+}
+
+.icon-year {
+    display: flex;
+    flex-direction: column;
+    width: 20px;
+    flex: right;
+    margin-right: 5px;
+}
+
+.icon-up-header {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -23px -335px;
+    width: 100%;
+    height: 10px;
+}
+
+.icon-down-header {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -67px -335px;
+    width: 100%;
+    height: 10px;
+}
+
+.full-year {
+    width: 50px;
+    line-height: 20px;
+    font-size: 1.3rem;
+    margin-left: 10px;
+    font-weight: 600;
+}

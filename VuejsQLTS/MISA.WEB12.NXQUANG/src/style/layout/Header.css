@@ -1,0 +1,74 @@
+.header {
+    height: 44px;
+    border-bottom: solid 2px #bbbbbb;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.infor-user {
+    display: flex;
+    line-height: 49px;
+    margin-right: 30px;
+    align-items: center;
+}
+
+.header-content {
+    margin-left: 30px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    align-self: center;
+}
+
+.input-year {
+    margin-left: 20px;
+    background-color: rgba(26, 164, 200, 0.2);
+    border-radius: 3px;
+    width: 112px;
+    height: 30px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.input-year input {
+    background-color: rgba(26, 164, 200, 0.1);
+    border: none;
+    outline: none;
+}
+
+.header-icon {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.icon-bell {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -332px -109px;
+    width: 16px;
+    height: 20px;
+}
+
+.icon-select {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -199px -23px;
+    width: 18px;
+    height: 18px;
+}
+
+.icon-question {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -67px -67px;
+    width: 18px;
+    height: 18px;
+}
+
+.icon-avatar {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -23px -23px;
+    width: 18px;
+    height: 18px;
+}
+
+.icon-setting {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -72px -338px;
+    width: 8px;
+    height: 5px;
+}

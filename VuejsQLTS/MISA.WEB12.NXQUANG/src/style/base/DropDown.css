@@ -1,0 +1,75 @@
+.drop-down {
+    border-radius: 2.5px;
+    border: 1px solid #afafaf;
+    min-width: 219px;
+    height: 35px;
+    background: url(../../assets/icon/Loc.png) no-repeat;
+    background-position: 5px 2px;
+    background-size: 24px 24px;
+    padding: 8px 0 8px 0px;
+    cursor: pointer;
+    position: relative;
+    font-size: 1.3rem;
+}
+
+.drop-down-content {
+    position: absolute;
+    top: 110%;
+    background-color: white;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.drop-text {
+    height: 100%;
+    margin-left: 40px;
+    line-height: 16px;
+}
+
+.content-field .drop-down {
+    margin-right: 10px;
+    background-color: white;
+}
+
+.drop-down-item {
+    padding: 5px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    height: 35px;
+    padding-left: 50px;
+    line-height: 25px;
+}
+
+.drop-down-item:hover {
+    background-color: rgba(26, 164, 200, 0.2);
+}
+
+.border {
+    border: solid 1px #1aa4c8;
+}
+
+.drop-down.table-footer-drop {
+    min-width: 60px;
+    height: 25px;
+    background: none;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-right: 50px;
+}
+
+.drop-down.table-footer-drop .drop-text {
+    margin: 0;
+}
+
+.drop-down.table-footer-drop .drop-down-content {
+    top: -500%;
+    margin: 0;
+}
+
+.drop-down.table-footer-drop .drop-down-item {
+    padding: 3px;
+    text-align: center;
+}

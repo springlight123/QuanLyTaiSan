@@ -1,0 +1,82 @@
+.outer-asset {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 2;
+}
+
+.form-asset {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 5px;
+    min-width: 500px;
+    padding: 25px 15px 0px 15px;
+}
+
+.form-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.form-close {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -375px -287px;
+    width: 18px;
+    height: 18px;
+}
+
+.form-close:hover {
+    cursor: pointer;
+}
+
+.form-input {
+    margin-bottom: 30px;
+}
+
+.form-row {
+    display: flex;
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+}
+
+.form-field-right {
+    margin-left: 15px;
+}
+
+.form-footer {
+    background-color: rgba(186, 186, 186, 0.2);
+    display: flex;
+    justify-content: right;
+    padding: 10px 15px 10px 0;
+    margin: 0 -15px;
+}
+
+.red-star {
+    color: red;
+}
+
+.red-border {
+    border: solid 1px red !important;
+}
+
+.red-border:focus {
+    outline: none;
+}
+
+.form-warning {
+    color: red;
+    contain: "";
+    height: 13px;
+    margin-top: 3px;
+    visibility: hidden;
+}
+
+.display {
+    visibility: visible;
+}

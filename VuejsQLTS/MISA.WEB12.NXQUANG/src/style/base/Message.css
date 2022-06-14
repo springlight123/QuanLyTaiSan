@@ -1,0 +1,44 @@
+.outer-message {
+    position: fixed;
+    z-index: 3;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.message-content {
+    display: flex;
+}
+
+.message-icon {
+    background: url(../../assets/icon/Sprites.64af8f61.svg) no-repeat -598px -463px;
+    width: 36px;
+    height: 37px;
+}
+
+.message-infor {
+    font-size: 1.3rem;
+}
+
+.message-buttons {
+    display: flex;
+    justify-content: right;
+    margin-top: 30px;
+}
+
+.message-type {
+    padding: 5px 0px 10px 20px;
+    width: 380px;
+}

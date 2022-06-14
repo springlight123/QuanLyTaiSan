@@ -1,0 +1,72 @@
+.combo-box {
+    border-radius: 2.5px;
+    display: flex;
+    border: solid 1px #bbbbbb;
+    width: 270px;
+    position: relative;
+}
+
+.combox-box-icon {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -59.5px -323px;
+    width: 35px;
+    background-color: white;
+}
+
+.combox-box-icon:hover {
+    cursor: pointer;
+    background-color: #bbbbbb;
+}
+
+.combo-content {
+    position: absolute;
+    top: 110%;
+    width: 100%;
+    background-color: white;
+    z-index: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-height: 140px;
+    overflow: auto;
+}
+
+.combo-item {
+    padding: 5px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    height: 35px;
+    line-height: 25px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.combo-item-form {
+    display: flex;
+}
+
+.combo-item-infor {
+    padding: 0 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.combo-item:hover {
+    background-color: rgba(26, 164, 200, 0.2);
+}
+
+.content-field .combo-box {
+    width: 219px !important;
+    margin-right: 10px;
+}
+
+.display {
+    display: block;
+}
+
+.chooseItem {
+    background-color: rgba(26, 164, 200, 0.2);
+}
+
+.focus {
+    border-color: #1aa4c8;
+}

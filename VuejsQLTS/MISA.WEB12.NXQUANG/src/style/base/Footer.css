@@ -1,0 +1,47 @@
+.footer {
+    text-align: center;
+    height: 20px;
+    margin-top: 2.5px;
+}
+
+.footer-pagination {
+    display: flex;
+    align-content: center;
+}
+
+.footer-pagination-icon {
+    background-color: white;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+}
+
+.footer-pagination-number {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+    line-height: 20px;
+    margin-right: 5px;
+    font-size: 1.2rem;
+}
+
+.footer-pagination-number:hover {
+    background-color: rgba(186, 186, 186, 0.6);
+}
+
+.footer-pagination-icon:hover {
+    background-color: rgba(186, 186, 186, 0.6);
+}
+
+.footer-pagination-icon-left {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -22.5px -242px;
+}
+
+.footer-pagination-icon-right {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -65px -242px;
+}
+
+.choose {
+    background-color: #bbbbbb;
+}

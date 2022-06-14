@@ -1,0 +1,25 @@
+.toast {
+    display: flex;
+    position: fixed;
+    top: 30px;
+    padding: 5px;
+    font-size: 1.3rem;
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.16);
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    justify-content: space-around;
+    transition: left 2.5s;
+}
+
+.icon {
+    background: url(../../assets/icon/qlts-icon.svg) no-repeat -111px -594px;
+    width: 18px;
+    height: 20px;
+}
+
+.toast-content {
+    height: 20px;
+    line-height: 20px;
+}
