@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "v-mask": "^2.3.0",
+    "vuetify-money": "^1.2.0"
+  }
+}
